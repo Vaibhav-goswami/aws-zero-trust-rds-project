@@ -73,7 +73,7 @@ CREATE TABLE users (
 );
 
 INSERT INTO users (name, email)
-VALUES ('Vaibhav', 'test@example.com');
+VALUES ('VaibhavGoswami', 'vaibhavgoswami.101@gmail.com');
 
 10. Key Learnings :-
 
