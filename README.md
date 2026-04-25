@@ -76,7 +76,9 @@ CREATE TABLE users (
 INSERT INTO users (name, email)
 VALUES ('VaibhavGoswami', 'vaibhavgoswami.101@gmail.com');
 
-10. Key Learnings :-
+10. Screenshots :- Screenshots are available in the /Screenshots folder
+
+11. Key Learnings :-
 
 - AWS networking fundamentals (VPC, subnets)
 - RDS deployment and configuration
