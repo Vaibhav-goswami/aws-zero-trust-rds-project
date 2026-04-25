@@ -1,4 +1,5 @@
-# aws-zero-trust-rds-project {mini project on AWS (Zero-Trust Netwok with Private EndPoints)}
+# aws-zero-trust-rds-project 
+Mini project on AWS (Zero-Trust Netwok with Private EndPoints)}
 1. Overview :-
 This project demonstrates a secure cloud database architecture using AWS RDS (MySQL) based on Zero Trust principles.
 The database is protected using network-level restrictions and controlled access instead of open public exposure.
